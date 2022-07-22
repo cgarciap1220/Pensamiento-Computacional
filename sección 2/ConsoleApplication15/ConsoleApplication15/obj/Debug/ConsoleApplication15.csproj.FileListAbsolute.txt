@@ -1,0 +1,8 @@
+D:\CINDY\Trabajo\Landivar\Pensamiento computacional\sección 2\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+D:\CINDY\Trabajo\Landivar\Pensamiento computacional\sección 2\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+D:\CINDY\Trabajo\Landivar\Pensamiento computacional\sección 2\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+D:\CINDY\Trabajo\Landivar\Pensamiento computacional\sección 2\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.csproj.AssemblyReference.cache
+D:\CINDY\Trabajo\Landivar\Pensamiento computacional\sección 2\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.csproj.SuggestedBindingRedirects.cache
+D:\CINDY\Trabajo\Landivar\Pensamiento computacional\sección 2\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.csproj.CoreCompileInputs.cache
+D:\CINDY\Trabajo\Landivar\Pensamiento computacional\sección 2\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+D:\CINDY\Trabajo\Landivar\Pensamiento computacional\sección 2\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
